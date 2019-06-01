@@ -1,9 +1,19 @@
-.row{
-  text-align:center;
-  
+.showim{
+  width:30%;
+  height:50%;
+  margin-left: 35%;
 }
-#choices{
+
+body{
+  background-color:#42adf4;
+}
+
+h1{
+  font-size:300%;
+  color:red;
+  width:100%;
+  padding-bottom: 1%;
   display:flex;
-  justify-content:space-between;
-  
+  justify-content:center;
+  background-image:url("https://data.whicdn.com/images/285305021/original.gif");
 }
